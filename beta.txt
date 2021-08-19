@@ -1,1 +1,2 @@
 test beta 1
+test beta 2 added
